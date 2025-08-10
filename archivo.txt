@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Contenido
-=======
-Contenido
->>>>>>> 2ebe74a20547071ef21e31bc831b9a282600e11a
